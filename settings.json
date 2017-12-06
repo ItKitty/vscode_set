@@ -1,0 +1,55 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "background.customImages": [
+        
+        // "file:///E:/images/saber12.jpg"
+        // "file:///E:/images/saber2.jpg"
+        // "file:///E:/images/saber19.jpg"
+        // "file:///E:/images/saber16.png"
+        // "file:///E:/images/saber17.png"
+        // "file:///E:/images/saber18.png"
+        // "file:///E:/images/saber20.jpg"
+        // "file:///E:/images/saber21.jpg"
+        "file:///E:/images/saber22.png"
+        
+
+        // "file:///E:/images/caster.png"
+        
+        // "file:///E:/images/黑贞.jpg"
+        // "file:///E:/images/黑贞02.jpg"
+    ],
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "100% 100%",
+        "background-repeat": "no-repeat",
+        "opacity": 0.3
+    },
+    "background.useDefault": false,
+    "window.zoomLevel": 0,
+    "editor.fontWeight": "normal",
+    "workbench.iconTheme": "vscode-icons",
+    "emmet.triggerExpansionOnTab": true,
+    "typescript.check.npmIsInstalled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "extensions.ignoreRecommendations": false,
+    "php.validate.executablePath": "D:/php/php/php-7.0.12-nts/php.exe",
+    "php.executablePath": "D:/php/php/php-7.0.12-nts/php.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "team.showWelcomeMessage": false,
+    "git.path": "D:/GIT/Git/bin/git.exe",
+    "explorer.confirmDragAndDrop": false,
+    // "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.shell.windows": "D:/GIT/Git/bin/bush.exe"
+}
