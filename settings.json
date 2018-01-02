@@ -10,14 +10,16 @@
         // "file:///E:/images/saber17.png"
         // "file:///E:/images/saber18.png"
         // "file:///E:/images/saber20.jpg"
-        // "file:///E:/images/saber21.jpg"
-        "file:///E:/images/saber22.png"
+        // "file:///E:/images/saber22.png"
         
 
         // "file:///E:/images/caster.png"
         
         // "file:///E:/images/黑贞.jpg"
         // "file:///E:/images/黑贞02.jpg"
+
+        // "file:///E:/images/tiger1.jpg"
+        // "file:///E:/images/tiger2.jpg"
     ],
     "background.style": {
         "content": "''",
@@ -50,6 +52,20 @@
     "team.showWelcomeMessage": false,
     "git.path": "D:/GIT/Git/bin/git.exe",
     "explorer.confirmDragAndDrop": false,
-    // "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "terminal.integrated.shell.windows": "D:/GIT/Git/bin/bash.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    // "terminal.integrated.shell.windows": "D:/GIT/Git/bin/bash.exe",
+    "workbench.panel.location": "bottom",
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDelete": false,
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+         "vue": "html"
+    },
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.showAbbreviationSuggestions": true,
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    }
 }
